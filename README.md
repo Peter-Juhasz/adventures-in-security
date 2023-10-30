@@ -8,4 +8,7 @@ This page collects my adventures in cybersecurity and hacking.
  - [waf](https://github.com/Peter-Juhasz/waf): high performance Web Application Firewall, which can be used as a middleware or a reverse proxy
  - [sql-injection](https://github.com/Peter-Juhasz/sql-injection): a query provider for EF Core which executes database queries in a remote database via an SQL injection vulnerability
 
-## Adventures
+## Adventures in whitehat hacking
+The following write-ups are based on real world examples.
+
+- [Lucene injection](/lucene.md): How to inject into a Lucene search query
